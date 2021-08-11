@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CompositePattern.Component.HorasTrabalhadas">
+    <Position X="6.25" Y="1.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAABAAAAAAAAAgAAAAAAAEAAAA=</HashCode>
+      <FileName>Component\HoraTrabalhada.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompositePattern.Leaf.Funcionario">
+    <Position X="7.75" Y="4" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAIAAAAAAAAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Leaf\Funcionario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompositePattern.Composite.Organizacao">
+    <Position X="4.75" Y="4" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAABAAACAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Composite\Organizacao.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
